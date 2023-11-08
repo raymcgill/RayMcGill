@@ -17,6 +17,76 @@ Order	Topic
 Projects
 Study resources
 
+<h2>👨‍💻 Certifications:</h2>
+
+![image](https://github.com/raymcgill/RayMcGill/assets/740421/6f678158-87e9-4a31-93c3-e3aa2c77a223)
+
+![image](https://github.com/raymcgill/RayMcGill/assets/740421/990eb175-92a7-49ea-b1a3-9719e384465e)
+
+
+![image](https://github.com/raymcgill/RayMcGill/assets/740421/492aecda-d2df-43c0-8a6a-0207f0dee740)
+![image](https://github.com/raymcgill/RayMcGill/assets/740421/0ff5b1a2-a8f9-4059-8d8b-1f9ba56a96f3)
+
+Archer Certified Associate badge image. Issued by Archer
+Archer Certified Associate
+Archer
+Microsoft Certified: Azure AI Fundamentals badge image. Issued by Microsoft
+Microsoft Certified: Azure AI Fundamentals
+Microsoft
+Microsoft Certified: Security, Compliance, and Identity Fundamentals badge image. Issued by Microsoft
+Microsoft Certified: Security, Compliance, and Identity Fundamentals
+Microsoft
+Microsoft Certified: Azure Fundamentals badge image. Issued by Microsoft
+Microsoft Certified: Azure Fundamentals
+Microsoft
+Professional Scrum Product Owner™ I (PSPO I) badge image. Issued by Scrum.org
+Professional Scrum Product Owner™ I (PSPO I)
+Scrum.org
+Professional Scrum Master™ I (PSM I) badge image. Issued by Scrum.org
+Professional Scrum Master™ I (PSM I)
+Scrum.org
+IBM Digital Analytics (Legacy) - Implementer badge image. Issued by IBM
+IBM Digital Analytics (Legacy) - Implementer
+IBM
+IBM Digital Analytics (Legacy) - Analyst badge image. Issued by IBM
+IBM Digital Analytics (Legacy) - Analyst
+IBM
+IBM Digital Analytics (Legacy) - Foundations badge image. Issued by IBM
+IBM Digital Analytics (Legacy) - Foundations
+IBM
+EXPIRED
+Certified Information Systems Security Professional (CISSP) badge image. Issued by ISC2
+Certified Information Systems Security Professional (CISSP)
+ISC2
+EXPIRED
+Associate of ISC2 badge image. Issued by ISC2
+Associate of ISC2
+ISC2
+EXPIRED
+CompTIA A+ ce Certification badge image. Issued by CompTIA
+CompTIA A+ ce Certification
+CompTIA
+EXPIRED
+CompTIA Security+ ce Certification badge image. Issued by CompTIA
+CompTIA Security+ ce Certification
+CompTIA
+CompTIA A+ Certification badge image. Issued by CompTIA
+CompTIA A+ Certification
+CompTIA
+
+CERTIFICATION
+![image](https://github.com/raymcgill/RayMcGill/assets/740421/cb3633b1-adce-413e-918f-488c70f858b3)
+
+Microsoft Certified: Azure Security Engineer Associate
+
+
+CERTIFICATION
+![image](https://github.com/raymcgill/RayMcGill/assets/740421/200b20ab-d01f-4240-9274-cfd78d2ce3de)
+
+Microsoft Certified: Azure AI Fundamentals
+
+
+
 
 <h2>👨‍💻 Security Projects:</h2>
 
