@@ -4,8 +4,18 @@ Order	Topic
 - <b>1	Introduction to Bash Commands(https://github.com/raymcgill/Algorithms-Practice)
 	- <b><ul>Bash Details</ul></b>
 	- <b>More Bash Details</b>
-- <b>2	Introduction to Bash Scripting(https://github.com/raymcgill/Algorithms-Practice)
-- <b>3	Introduction to Networking(https://github.com/raymcgill/Algorithms-Practice)
+- <b>2	Introduction to Bash Scripting (https://github.com/raymcgill/Algorithms-Practice)
+- <b>3	Introduction to Networking (https://github.com/raymcgill/Algorithms-Practice)
+<h2> 👨‍💻 Programming, Git, and Prompt Engineering</h2>
+1	Learn to Code
+2	Learn Git and GitHub
+3	Learn Prompt Engineering
+<h2> 👨‍💻 Cloud Platform fundamentals</h2>
+<h2> 👨‍💻 DevOps fundamentals</h2>
+<h2> 👨‍💻 Cloud Security Fundamentals</h2>
+
+Projects
+Study resources
 
 
 <h2>👨‍💻 Security Projects:</h2>
