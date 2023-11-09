@@ -1,4 +1,8 @@
 <h1>Hi, I'm Raymond! <br/><a href="https://github.com/raymcgill">Cybersecurity Analyst</a>, <a href="https://www.linkedin.com/in/raymcgill/">Cloud Engineer</a>, <a href="https://www.youtube.com/c/raymcgill">YouTuber</a></h1>
+<h2> 👨‍💻 Programming, Git, and Prompt Engineering</h2>
+1	Learn Git and GitHub
+2	Learn to Code
+3	Learn Prompt Engineering
 <h2> 👨‍💻 Linux Bash and Networking fundamentals </h2>
 Order	Topic
 - <b>1	Introduction to Bash Commands(https://github.com/raymcgill/Algorithms-Practice)
@@ -6,10 +10,7 @@ Order	Topic
 	- <b>More Bash Details</b>
 - <b>2	Introduction to Bash Scripting (https://github.com/raymcgill/Algorithms-Practice)
 - <b>3	Introduction to Networking (https://github.com/raymcgill/Algorithms-Practice)
-<h2> 👨‍💻 Programming, Git, and Prompt Engineering</h2>
-1	Learn to Code
-2	Learn Git and GitHub
-3	Learn Prompt Engineering
+
 <h2> 👨‍💻 Cloud Platform fundamentals</h2>
 <h2> 👨‍💻 DevOps fundamentals</h2>
 <h2> 👨‍💻 Cloud Security Fundamentals</h2>
@@ -27,52 +28,20 @@ Study resources
 ![image](https://github.com/raymcgill/RayMcGill/assets/740421/492aecda-d2df-43c0-8a6a-0207f0dee740)
 ![image](https://github.com/raymcgill/RayMcGill/assets/740421/0ff5b1a2-a8f9-4059-8d8b-1f9ba56a96f3)
 
-Archer Certified Associate badge image. Issued by Archer
+
 Archer Certified Associate
-Archer
-Microsoft Certified: Azure AI Fundamentals badge image. Issued by Microsoft
 Microsoft Certified: Azure AI Fundamentals
-Microsoft
-Microsoft Certified: Security, Compliance, and Identity Fundamentals badge image. Issued by Microsoft
 Microsoft Certified: Security, Compliance, and Identity Fundamentals
-Microsoft
-Microsoft Certified: Azure Fundamentals badge image. Issued by Microsoft
 Microsoft Certified: Azure Fundamentals
-Microsoft
-Professional Scrum Product Owner™ I (PSPO I) badge image. Issued by Scrum.org
 Professional Scrum Product Owner™ I (PSPO I)
-Scrum.org
-Professional Scrum Master™ I (PSM I) badge image. Issued by Scrum.org
 Professional Scrum Master™ I (PSM I)
-Scrum.org
-IBM Digital Analytics (Legacy) - Implementer badge image. Issued by IBM
-IBM Digital Analytics (Legacy) - Implementer
-IBM
-IBM Digital Analytics (Legacy) - Analyst badge image. Issued by IBM
-IBM Digital Analytics (Legacy) - Analyst
-IBM
-IBM Digital Analytics (Legacy) - Foundations badge image. Issued by IBM
-IBM Digital Analytics (Legacy) - Foundations
-IBM
-EXPIRED
 Certified Information Systems Security Professional (CISSP) badge image. Issued by ISC2
 Certified Information Systems Security Professional (CISSP)
-ISC2
-EXPIRED
-Associate of ISC2 badge image. Issued by ISC2
-Associate of ISC2
-ISC2
-EXPIRED
-CompTIA A+ ce Certification badge image. Issued by CompTIA
 CompTIA A+ ce Certification
-CompTIA
-EXPIRED
-CompTIA Security+ ce Certification badge image. Issued by CompTIA
-CompTIA Security+ ce Certification
-CompTIA
-CompTIA A+ Certification badge image. Issued by CompTIA
+CompTIA Security+ ce Certification 
 CompTIA A+ Certification
-CompTIA
+
+
 
 CERTIFICATION
 ![image](https://github.com/raymcgill/RayMcGill/assets/740421/cb3633b1-adce-413e-918f-488c70f858b3)
