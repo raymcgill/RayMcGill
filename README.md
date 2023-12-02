@@ -1,4 +1,4 @@
-<h1>Hi, I'm Raymond! <br/><a href="https://github.com/raymcgill">Cybersecurity Analyst</a>, <a href="https://www.linkedin.com/in/raymcgill/">Cloud Engineer</a>, <a href="https://www.youtube.com/c/raymcgill">YouTuber</a></h1>
+<h1>Hi, I'm Raymond! <br/><a href="https://github.com/raymcgill">Cybersecurity Analyst</a>, <a href="https://www.linkedin.com/in/raymcgill/">Cloud </h1>
 <h2> 👨‍💻 Programming, Git, and Prompt Engineering</h2>
 1	Learn Git and GitHub
 2	Learn to Code
